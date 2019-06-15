@@ -3,7 +3,11 @@ body {
 }
 
 .card {
-    margin: auto
+    margin: auto;
+}
+
+.label-header {
+    color: blue;
 }
 
 .menu-header {
