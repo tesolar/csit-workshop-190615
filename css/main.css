@@ -39,6 +39,6 @@ li .menu-price {
     float: right;
 }
 
-li p.hover {
+li p:hover {
     color: red
 }
